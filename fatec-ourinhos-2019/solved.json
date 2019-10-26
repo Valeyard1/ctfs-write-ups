@@ -1,108 +1,108 @@
 {
     "challs": {
-        "Mexico": {
-            "points": 45,
-            "category": "stego"
-        },
-        "Argentina": {
-            "points": 15,
-            "category": "misc"
-        },
-        "Brazil": {
-            "points": 40,
-            "category": "misc"
-        },
-        "Spain": {
-            "points": 10,
-            "category": "misc"
-        },
-        "Greece": {
-            "points": 45,
-            "category": "misc"
-        },
-        "Russia": {
-            "points": 25,
-            "category": "crpyt"
-        },
         "Afghanistan": {
-            "points": 30,
-            "category": "reversing"
-        },
-        "Botswana": {
-            "points": 60,
-            "category": "reversing"
-        },
-        "Greenland": {
-            "points": 100,
-            "category": "reversing"
-        },
-        "Canada": {
-            "points": 45,
-            "category": "stego"
-        },
-        "Paraguay": {
-            "points": 60,
-            "category": "web"
-        },
-        "Austria": {
-            "points": 30,
-            "category": "crpyt"
-        },
-        "Belarus": {
-            "points": 60,
-            "category": "misc"
-        },
-        "Turkmenistan": {
-            "points": 70,
-            "category": "crypt"
-        },
-        "China": {
-            "points": 140,
-            "category": "crypt"
-        },
-        "Laos": {
-            "points": 70,
-            "category": "web"
+            "category": "reversing",
+            "points": 30
         },
         "Algeria": {
-            "points": 50,
-            "category": "crpyt"
-        },
-        "Egypt": {
-            "points": 60,
-            "category": "web"
-        },
-        "Oman": {
-            "points": 30,
-            "category": "crpyt"
-        },
-        "Burkina Faso": {
-            "points": 30,
-            "category": "web"
-        },
-        "Nigeria": {
-            "points": 45,
-            "category": "misc"
-        },
-        "Cameroon": {
-            "points": 10,
-            "category": "crpyt"
-        },
-        "Congo": {
-            "points": 40,
-            "category": "crpyt"
+            "category": "crpyt",
+            "points": 50
         },
         "Angola": {
-            "points": 50,
-            "category": "misc"
+            "category": "misc",
+            "points": 50
+        },
+        "Argentina": {
+            "category": "misc",
+            "points": 15
         },
         "Australia": {
-            "points": 40,
-            "category": "forense"
+            "category": "forense",
+            "points": 40
+        },
+        "Austria": {
+            "category": "crpyt",
+            "points": 30
+        },
+        "Belarus": {
+            "category": "misc",
+            "points": 60
+        },
+        "Botswana": {
+            "category": "reversing",
+            "points": 60
+        },
+        "Brazil": {
+            "category": "misc",
+            "points": 40
+        },
+        "Burkina Faso": {
+            "category": "web",
+            "points": 30
+        },
+        "Cameroon": {
+            "category": "crpyt",
+            "points": 10
+        },
+        "Canada": {
+            "category": "stego",
+            "points": 45
+        },
+        "China": {
+            "category": "crypt",
+            "points": 140
+        },
+        "Congo": {
+            "category": "crpyt",
+            "points": 40
+        },
+        "Egypt": {
+            "category": "web",
+            "points": 60
+        },
+        "Greece": {
+            "category": "misc",
+            "points": 45
+        },
+        "Greenland": {
+            "category": "reversing",
+            "points": 100
+        },
+        "Laos": {
+            "category": "web",
+            "points": 70
+        },
+        "Mexico": {
+            "category": "stego",
+            "points": 45
         },
         "New Zealand": {
-            "points": 25,
-            "category": "stego"
+            "category": "stego",
+            "points": 25
+        },
+        "Nigeria": {
+            "category": "misc",
+            "points": 45
+        },
+        "Oman": {
+            "category": "crpyt",
+            "points": 30
+        },
+        "Paraguay": {
+            "category": "web",
+            "points": 60
+        },
+        "Russia": {
+            "category": "crpyt",
+            "points": 25
+        },
+        "Spain": {
+            "category": "misc",
+            "points": 10
+        },
+        "Turkmenistan": {
+            "category": "crypt",
+            "points": 70
         }
     },
     "solved": [
