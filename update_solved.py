@@ -14,19 +14,13 @@ parser.add_argument('--solved-chall', metavar='CHALL', type=str,
 
 arguments = parser.parse_args()
 
-filename = arguments.filename
-solved_chall = arguments.solved_chall
 
-with open(filename) as fd:
+with open(arguments.filename) as fd:
     json_data = json.load(fd)
 
-json_data['solved'].append(solved_chall)
+json_data['solved'].append(arguments.solved_chall)
 
-with open(filename, 'w') as fd:
+with open(arguments.filename, 'w') as fd:
     json.dump(json_data, fd, indent=4, sort_keys=True)
 
 
-def help():
-    print("Usage: {} solved.json <chall>" .format(sys.argv[0]))
-    print("Example: {} fatec-ourinhos-2019/solved.json Belarus" .format(sys.argv[0]))
-    return
